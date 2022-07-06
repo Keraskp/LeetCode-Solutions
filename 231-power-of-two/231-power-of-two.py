@@ -13,5 +13,4 @@ class Solution:
             return False
         else :
             self.num = 2*self.num
-            print(self.num)
             return self.recur(n)
